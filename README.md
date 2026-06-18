@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -57,3 +58,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+=======
+# Job-Module
+A comprehensive RESTful Job Management API built with Laravel 11, PHP 8.2, and PostgreSQL. The system connects Job Seekers with Companies (Job Keepers) through a secure, role-based platform. It uses Laravel Sanctum for Bearer Token authentication and provides clean, structured JSON responses for web and mobile applications.
+>>>>>>> 9c919a84a9ae0a5f32d56f54ba310d740654923d
